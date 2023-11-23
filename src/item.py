@@ -75,3 +75,4 @@ class Item:
         """
         self.price *= self.pay_rate
         return self.price
+

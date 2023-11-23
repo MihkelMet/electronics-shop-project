@@ -45,3 +45,4 @@ def test_add_method():
     item2 = Item("Item 2", 5.0, 3)
     result = item1 + item2
     assert result == 8
+

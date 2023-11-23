@@ -10,3 +10,4 @@ def test_phone_repr():
     phone = Phone('iPhone 14', 120000, 5, 2)
     expected_repr = "Phone('iPhone 14', 120000, 5, 2)"
     assert repr(phone) == expected_repr
+
